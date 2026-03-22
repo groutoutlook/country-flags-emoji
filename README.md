@@ -2,7 +2,7 @@
 
 This bookmarklet replaces country flag emojis with SVG images from the Twemoji asset set. It is aimed at pages where Chrome on Windows still falls back to letter pairs like AU instead of rendering the actual flag emoji.
 
-Initially started as a way to fix the flag emojis like 🇦🇺 being rendered as AU in Chrome on Windows. I now have a better direct font solution. See [quarrel/broken-flag-emojis-win11-twemoji](https://github.com/quarrel/broken-flag-emojis-win11-twemoji).
+Initially started as a way to fix the flag emojis like 🇦🇺 being rendered as AU in Chrome on Windows. @quarrel now have a better direct font solution. See [quarrel/broken-flag-emojis-win11-twemoji](https://github.com/quarrel/broken-flag-emojis-win11-twemoji).
 
 The bookmarklet is self-contained. It does not depend on a userscript manager or `@require` metadata.
 
